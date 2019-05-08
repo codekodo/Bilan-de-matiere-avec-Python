@@ -4,5 +4,5 @@ Cette activité se base sur des documents créés par l'IGEN et un groupe de ré
 
 Trois documents sont proposés :
 * une fiche pour l'enseignant
-* un sujet pour l'élève
+* un sujet pour l'élève (à distribuer par exemple via "Classroom")
 * une correction de l'activité
